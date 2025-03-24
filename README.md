@@ -7,6 +7,9 @@ For well written example codes, see the examples repository for the workshop you
 
 # Installments
 
+* March 2025 pre-Easter training
+  * C++
+
 * March 2024 training week
   * C++
   * Fortran
